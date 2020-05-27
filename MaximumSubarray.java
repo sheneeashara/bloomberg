@@ -13,7 +13,7 @@ public class MaximumSubarray {
       return max;
   }
 
-    public static void main(final String... args) {
+    public static void main(final String[] args) {
         int[] c1 = new int[]{-2,1,-3,4,-1,2,1,-5,4};
         int r1 = maxSubArray(c1);
         // output : 6
