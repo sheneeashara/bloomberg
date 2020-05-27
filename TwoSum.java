@@ -18,7 +18,7 @@ public class TwoSum {
         return result;
     }
 
-    public static void main(final String... args) {
+    public static void main(final String[] args) {
         int[] c1 = new int[]{2,7,11,15};
         int[] r1 = twoSum(c1, 9);
         // output : [0,1]
