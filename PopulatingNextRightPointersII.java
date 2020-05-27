@@ -47,7 +47,7 @@ public class PopulatingNextRightPointersII {
         return root;
     }
 
-    public static void main(final String... args) {
+    public static void main(final String[] args) {
     	Node l1 = new Node(4, null, null, null);
     	Node r1 = new Node(5, null, null, null);
     	Node r2 = new Node(7, null, null, null);
