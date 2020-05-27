@@ -22,7 +22,7 @@ public class MoveZeros {
         }
     }
 
-    public static void main(final String... args) {
+    public static void main(final String[] args) {
         int[] c1 = new int[]{0,1,0,3,12};
         int[] r1 = moveZeroes(c1);
         // output : [1,3,12,0,0]
