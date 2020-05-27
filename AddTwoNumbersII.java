@@ -52,7 +52,7 @@ public class AddTwoNumbersII {
         return prev;
     }
 
-    public static void main(final String... args) {
+    public static void main(final String[] args) {
         ListNode c1 = new ListNode(3);
         ListNode c2 = new ListNode(4, c1);
         ListNode c3 = new ListNode(2, c2);
