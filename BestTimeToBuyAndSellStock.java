@@ -13,7 +13,7 @@ public class BestTimeToBuyAndSellStock {
         return profit;
     }
 
-    public static void main(final String... args) {
+    public static void main(final String[] args) {
         int[] c1 = new int[]{7,1,5,3,6,4};
         int r1 = maxProfit(c1);
         // output : 5
