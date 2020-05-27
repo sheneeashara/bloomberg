@@ -20,7 +20,7 @@ public class ReverseLinkedList {
         return prev;
     }
 
-    public static void main(final String... args) {
+    public static void main(final String[] args) {
         ListNode c1 = new ListNode(5);
         c1.next = null
         ListNode c2 = new ListNode(4);
